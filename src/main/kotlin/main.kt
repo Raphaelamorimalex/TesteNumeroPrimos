@@ -8,7 +8,7 @@ fun primos(numero:Int):Boolean{
     }
     return true
 }
-
+////
 fun main(args: Array<String>) {
     //continue a solução
     val n = readLine()!!.toInt()
